@@ -3,7 +3,7 @@ Implementation of various design patterns in Java.
 ### Structural design patterns
 ---
 Structural design pattern is a blueprint for defining how different objects and classes are composed to form larger structures.
-* [Facade pattern](Facade/)
+* [Facade](Facade/)
 
 ### Creational design patterns
 ---
