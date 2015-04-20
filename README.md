@@ -1,5 +1,4 @@
 # Design Patterns in Java
----
 Implementation of various design patterns in Java.
 ### Structural design patterns
 ---
