@@ -9,6 +9,7 @@ Structural design pattern is a blueprint for defining how different objects and 
 
 ### Creational design patterns
 ---
+Behavioral design pattern is a blueprint for defining how different objects and classes communicate between each other.
 
 ### Behavioral design patterns
 ----
