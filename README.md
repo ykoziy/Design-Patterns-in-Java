@@ -16,3 +16,4 @@ Creational design patterns deal with class instantiation.
 ----
 Behavioral design pattern is a blueprint for defining how different objects and classes communicate between each other.
 * [Command](Command/)
+* [Strategy](Strategy/)  Works only with Java 8, uses default method in interface!
