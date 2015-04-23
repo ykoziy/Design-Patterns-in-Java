@@ -1,5 +1,5 @@
 /*
- * Facade hides the complexity of a large system by provoding simple interface. 
+ * Facade hides the complexity of a large system by providing simple interface. 
  */ 
 public class ShapesFacade {
     private Shape cone;

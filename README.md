@@ -11,6 +11,7 @@ Structural design pattern is a blueprint for defining how different objects and 
 ---
 Creational design patterns deal with class instantiation.
 * [Singleton](Singleton/)
+* [Factory Method](FactoryMethod/)
 
 ### Behavioral design patterns
 ----

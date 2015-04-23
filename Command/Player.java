@@ -1,5 +1,5 @@
 /*
- * Reciever, knows how to perform operations.
+ * Receiver, knows how to perform operations.
  */
 public class Player {
     public void jump() {
