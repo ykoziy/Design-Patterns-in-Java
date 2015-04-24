@@ -1,4 +1,7 @@
 import java.util.Arrays;
+/*
+ * Strategy pattern encapsulates algorithm inside a class.
+ */
 public class StrategyDriver {
     public static void main(String[] args) { 
         int[] array1 = {54,26,93,17,77,31,44,55,20};
