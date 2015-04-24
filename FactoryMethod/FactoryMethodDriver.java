@@ -1,15 +1,14 @@
 /*
- * Factory method allows you to create objects without specifying the exact class of object that will be created
+ * Factory method defines an interface for creating an object, but let subclasses decide which class to instantiate.
  */
 public class FactoryMethodDriver {
-    public static void main(String[] args) { 
-        Enemy enemy = EnemyFactory.getEnemy("Goomba");
-        enemy.speak();
+    public static void main(String[] args) {
+        HelicopterFactory bell = new Bell429Factory();
+        bell.factoryMethod().printInfo();
         
-        enemy = EnemyFactory.getEnemy("Buzzy beetle");
-        enemy.speak();
+        System.out.println();
         
-        enemy = EnemyFactory.getEnemy("koopa troopa");
-        enemy.speak();
+        bell = new Bell407Factory();
+        bell.factoryMethod().printInfo();
     }
 }
