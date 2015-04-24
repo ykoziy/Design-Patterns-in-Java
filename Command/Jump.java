@@ -1,10 +1,9 @@
 /*
  * Implementing Command interface to execute actual command on Receiver.
  */
-public class Jump implements Command {
-    private Player player;
+public class Jump extends Command {
     public Jump(Player player) {
-        this.player = player;
+        super(player);
     }
     @Override
     public void execute() {
