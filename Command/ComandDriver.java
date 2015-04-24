@@ -8,7 +8,7 @@ public class ComandDriver {
         //various commands as objects
         Command fire = new Fire(player);
         Command jump = new Jump(player);
-        MoveRight moveRight = new MoveRight(player);
+        Command moveRight = new MoveRight(player);
 
         Action action = new Action();
         

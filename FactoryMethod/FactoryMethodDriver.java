@@ -3,12 +3,12 @@
  */
 public class FactoryMethodDriver {
     public static void main(String[] args) {
-        HelicopterFactory bell = new Bell429Factory();
-        bell.factoryMethod().printInfo();
+        HelicopterCreator bell = new Bell429Creator();
+        bell.create().printInfo();
         
         System.out.println();
         
-        bell = new Bell407Factory();
-        bell.factoryMethod().printInfo();
+        bell = new Bell407Creator();
+        bell.create().printInfo();
     }
 }
