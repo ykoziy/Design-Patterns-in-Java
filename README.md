@@ -21,3 +21,5 @@ Behavioral design pattern is a blueprint for defining how different objects and 
 * [Command](Command/)
 * [Strategy](Strategy/)  Works only with Java 8, uses default method in interface!
 * [Iterator](Iterator/)
+* [Observer](Observer/)
+
