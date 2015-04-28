@@ -1,0 +1,10 @@
+public interface Builder {
+    void buildCase();
+    void buildPsu();
+    void buildMotherboard();
+    void buildCpu();
+    void buildRam();
+    void buildGpu();
+    void buildHdd();
+    Computer getComputer();
+}

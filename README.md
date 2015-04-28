@@ -14,6 +14,7 @@ Creational design patterns deal with class instantiation.
 * [Factory](Factory/)
 * [Factory Method](FactoryMethod/)
 * [Prototype](Prototype/)
+* [Builder](Builder/)
 
 ### Behavioral design patterns
 ----
