@@ -1,8 +1,0 @@
-/*
- * Builder, 
- */
-public class BuilderDriver {
-    public static void main(String[] args) { 
-        Builder b = newComputerBuilder();
-    }
-}
