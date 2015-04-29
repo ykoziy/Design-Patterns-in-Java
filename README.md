@@ -13,6 +13,7 @@ Creational design patterns deal with class instantiation.
 * [Singleton](Singleton/)
 * [Factory](Factory/)
 * [Factory Method](FactoryMethod/)
+* [Abstract Factory](AbstractFactory/)
 * [Prototype](Prototype/)
 * [Builder](Builder/)
 
