@@ -6,6 +6,7 @@ Structural design pattern is a blueprint for defining how different objects and 
 * [Facade](Facade/)
 * [Adapter](Adapter/)
 * [Bridge](Bridge/)
+* [Decorator](Decorator/)
 
 ### Creational design patterns
 ---
