@@ -9,7 +9,7 @@ Structural design pattern is a blueprint for defining how different objects and 
 * [Composite] (Composite/) 
 * [Decorator](Decorator/)
 * [Flyweight] (Flyweight/)
-* [Private Class Data] (Private Class Data/)
+* [Private Class Data] (PrivateClassData/)
 
 ### Creational design patterns
 ---
