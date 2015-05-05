@@ -29,4 +29,4 @@ Behavioral design pattern is a blueprint for defining how different objects and 
 * [Iterator](Iterator/)
 * [Observer](Observer/)
 * [Template Method] (TemplateMethod/)
-
+* [Chain of Responsibility] (ChainOfResponsibility/)
