@@ -10,6 +10,7 @@ Structural design pattern is a blueprint for defining how different objects and 
 * [Decorator](Decorator/)
 * [Flyweight] (Flyweight/)
 * [Private Class Data] (PrivateClassData/)
+* [Proxy] (Proxy/)
 
 ### Creational design patterns
 ---
