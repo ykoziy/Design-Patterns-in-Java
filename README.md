@@ -36,3 +36,4 @@ Behavioral design pattern is a blueprint for defining how different objects and 
 * [Mediator] (Mediator/)
 * [Memento] (Memento/)
 * [Null Object] (NullObject/)
+* [Visitor] (Visitor/)
