@@ -6,11 +6,11 @@ Structural design pattern is a blueprint for defining how different objects and 
 * [Facade](Facade/)
 * [Adapter](Adapter/)
 * [Bridge](Bridge/)
-* [Composite] (Composite/) 
+* [Composite](Composite/) 
 * [Decorator](Decorator/)
-* [Flyweight] (Flyweight/)
-* [Private Class Data] (PrivateClassData/)
-* [Proxy] (Proxy/)
+* [Flyweight](Flyweight/)
+* [Private Class Data](PrivateClassData/)
+* [Proxy](Proxy/)
 
 ### Creational design patterns
 ---
@@ -21,20 +21,20 @@ Creational design patterns deal with class instantiation.
 * [Abstract Factory](AbstractFactory/)
 * [Prototype](Prototype/)
 * [Builder](Builder/)
-* [Object Pool] (ObjectPool/)
+* [Object Pool](ObjectPool/)
 
 ### Behavioral design patterns
 ----
 Behavioral design pattern is a blueprint for defining how different objects and classes communicate between each other.
 * [Command](Command/)
-* [Interpreter] (Interpreter/)
+* [Interpreter](Interpreter/)
 * [Strategy](Strategy/)  Works only with Java 8, uses default method in interface!
 * [Iterator](Iterator/)
 * [Observer](Observer/)
-* [Template Method] (TemplateMethod/)
-* [Chain of Responsibility] (ChainOfResponsibility/)
-* [State] (State/)
-* [Mediator] (Mediator/)
-* [Memento] (Memento/)
-* [Null Object] (NullObject/)
-* [Visitor] (Visitor/)
+* [Template Method](TemplateMethod/)
+* [Chain of Responsibility](ChainOfResponsibility/)
+* [State](State/)
+* [Mediator](Mediator/)
+* [Memento](Memento/)
+* [Null Object](NullObject/)
+* [Visitor](Visitor/)
